@@ -1,0 +1,123 @@
+/* 
+  International.strings
+  mufeng
+
+  Created by chang on 14-1-22.
+  Copyright (c) 2015年 chang. All rights reserved.
+*/
+
+// LunarHelper Start
+"common_components_calendar_01001"="Jan.";
+"common_components_calendar_01002"="Feb.";
+"common_components_calendar_01003"="Mar.";
+"common_components_calendar_01004"="Apr.";
+"common_components_calendar_01005"="May";
+"common_components_calendar_01006"="Jun.";
+"common_components_calendar_01007"="Jul.";
+"common_components_calendar_01008"="Aug.";
+"common_components_calendar_01009"="Sep.";
+"common_components_calendar_01010"="Oct.";
+"common_components_calendar_01011"="Nov.";
+"common_components_calendar_01012"="Dec.";
+"common_components_calendar_01013"="%i-%i-%i";
+"common_components_calendar_01014"="%d-%d";
+"common_components_calendar_01015"="%d月";
+"common_components_calendar_01016"="Chinese New Year";
+"common_components_calendar_01017"="正月初一";
+"common_components_calendar_01018"="Lantern Festival";
+"common_components_calendar_01019"="正月十五";
+"common_components_calendar_01020"="Dragon Boat Festival";
+"common_components_calendar_01021"="五月初五";
+"common_components_calendar_01022"="Mid-Autumn (Moon)Festival";
+"common_components_calendar_01023"="八月十五";
+"common_components_calendar_01024"="Double-ninth Day";
+"common_components_calendar_01025"="九月初九";
+"common_components_calendar_01026"="New Year's Day";
+"common_components_calendar_01027"="International Working Women's Day";
+"common_components_calendar_01028"="Tomb-sweeping Day";
+"common_components_calendar_01029"="International Labour Day";
+"common_components_calendar_01030"="Chinese Youth Day";
+"common_components_calendar_01031"="International Children's Day";
+"common_components_calendar_01032"="Teacher's Day";
+"common_components_calendar_01033"="National Day";
+"common_components_calendar_01034"="Christmas Eve";
+"common_components_calendar_01035"="Christmas";
+"common_components_calendar_01036"="Chinese Valentine's Day ";
+"common_components_calendar_01037"="Valentine's Day";
+"common_components_calendar_01038"="Only supports conversion between 1900 and 2050";
+"common_components_calendar_01039"="正";
+"common_components_calendar_01040"="一";
+"common_components_calendar_01041"="二";
+"common_components_calendar_01042"="三";
+"common_components_calendar_01043"="四";
+"common_components_calendar_01044"="五";
+"common_components_calendar_01045"="六";
+"common_components_calendar_01046"="七";
+"common_components_calendar_01047"="八";
+"common_components_calendar_01048"="九";
+"common_components_calendar_01049"="十";
+"common_components_calendar_01050"="冬";
+"common_components_calendar_01051"="腊";
+"common_components_calendar_01052"="十一";
+"common_components_calendar_01053"="十二";
+"common_components_calendar_01054"="yyyy年MM月dd日";
+"common_components_calendar_01055"="鼠";
+"common_components_calendar_01056"="牛";
+"common_components_calendar_01057"="虎";
+"common_components_calendar_01058"="兔";
+"common_components_calendar_01059"="龙";
+"common_components_calendar_01060"="蛇";
+"common_components_calendar_01061"="马";
+"common_components_calendar_01062"="羊";
+"common_components_calendar_01063"="猴";
+"common_components_calendar_01064"="鸡";
+"common_components_calendar_01065"="狗";
+"common_components_calendar_01066"="猪";
+"common_components_calendar_01067"="甲";
+"common_components_calendar_01068"="乙";
+"common_components_calendar_01069"="丙";
+"common_components_calendar_01070"="丁";
+"common_components_calendar_01071"="戊";
+"common_components_calendar_01072"="己";
+"common_components_calendar_01073"="庚";
+"common_components_calendar_01074"="辛";
+"common_components_calendar_01075"="壬";
+"common_components_calendar_01076"="癸";
+"common_components_calendar_01077"="子";
+"common_components_calendar_01078"="丑";
+"common_components_calendar_01079"="寅";
+"common_components_calendar_01080"="卯";
+"common_components_calendar_01081"="辰";
+"common_components_calendar_01082"="巳";
+"common_components_calendar_01083"="午";
+"common_components_calendar_01084"="未";
+"common_components_calendar_01085"="申";
+"common_components_calendar_01086"="酉";
+"common_components_calendar_01087"="戌";
+"common_components_calendar_01088"="亥";
+"common_components_calendar_01089"="初";
+"common_components_calendar_01090"="十";
+"common_components_calendar_01091"="廿";
+"common_components_calendar_01092"="卅";
+"common_components_calendar_01093"="初十";
+"common_components_calendar_01094"="Day";
+"common_components_calendar_01095"="1900年1月31日";
+"common_components_calendar_01096"="闰";
+"common_components_calendar_01097"="Month";
+"common_components_calendar_01098"="Error";
+
+// StringUtil Start
+"common_util_stringutil_01001"="The day before yesterday";
+"common_util_stringutil_01002"="Yesterday";
+"common_util_stringutil_01003"="Today";
+"common_util_stringutil_01004"="Tomorrow";
+"common_util_stringutil_01005"="Day after tomorrow";
+
+// DateUtil Start
+"common_components_calendar_020001"="Mon.";
+"common_components_calendar_020002"="Tues.";
+"common_components_calendar_020003"="Wed.";
+"common_components_calendar_020004"="Thur.";
+"common_components_calendar_020005"="Fri.";
+"common_components_calendar_020006"="Sat.";
+"common_components_calendar_020007"="Sun.";
